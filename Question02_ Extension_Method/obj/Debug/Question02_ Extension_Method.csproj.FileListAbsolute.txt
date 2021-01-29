@@ -1,0 +1,20 @@
+C:\Users\Max Bay\Desktop\Lab 01\Lab_01\Question02_ Extension_Method\bin\Debug\Question02_ Extension_Method.exe.config
+C:\Users\Max Bay\Desktop\Lab 01\Lab_01\Question02_ Extension_Method\bin\Debug\Question02_ Extension_Method.exe
+C:\Users\Max Bay\Desktop\Lab 01\Lab_01\Question02_ Extension_Method\bin\Debug\Question02_ Extension_Method.pdb
+C:\Users\Max Bay\Desktop\Lab 01\Lab_01\Question02_ Extension_Method\obj\Debug\Question02__Extension_Method.Form1.resources
+C:\Users\Max Bay\Desktop\Lab 01\Lab_01\Question02_ Extension_Method\obj\Debug\Question02__Extension_Method.Properties.Resources.resources
+C:\Users\Max Bay\Desktop\Lab 01\Lab_01\Question02_ Extension_Method\obj\Debug\Question02_ Extension_Method.csproj.GenerateResource.cache
+C:\Users\Max Bay\Desktop\Lab 01\Lab_01\Question02_ Extension_Method\obj\Debug\Question02_ Extension_Method.csproj.CoreCompileInputs.cache
+C:\Users\Max Bay\Desktop\Lab 01\Lab_01\Question02_ Extension_Method\obj\Debug\Question02_ Extension_Method.exe
+C:\Users\Max Bay\Desktop\Lab 01\Lab_01\Question02_ Extension_Method\obj\Debug\Question02_ Extension_Method.pdb
+C:\Users\Max Bay\Desktop\Lab 01\Lab_01\Question02_ Extension_Method\obj\Debug\Question02_ Extension_Method.csprojAssemblyReference.cache
+C:\Users\Max Bay\Desktop\Lab 01\301098547(Wang)_LAB#1\Question02_ Extension_Method\bin\Debug\Question02_ Extension_Method.exe.config
+C:\Users\Max Bay\Desktop\Lab 01\301098547(Wang)_LAB#1\Question02_ Extension_Method\bin\Debug\Question02_ Extension_Method.exe
+C:\Users\Max Bay\Desktop\Lab 01\301098547(Wang)_LAB#1\Question02_ Extension_Method\bin\Debug\Question02_ Extension_Method.pdb
+C:\Users\Max Bay\Desktop\Lab 01\301098547(Wang)_LAB#1\Question02_ Extension_Method\obj\Debug\Question02_ Extension_Method.csprojAssemblyReference.cache
+C:\Users\Max Bay\Desktop\Lab 01\301098547(Wang)_LAB#1\Question02_ Extension_Method\obj\Debug\Question02__Extension_Method.Form1.resources
+C:\Users\Max Bay\Desktop\Lab 01\301098547(Wang)_LAB#1\Question02_ Extension_Method\obj\Debug\Question02__Extension_Method.Properties.Resources.resources
+C:\Users\Max Bay\Desktop\Lab 01\301098547(Wang)_LAB#1\Question02_ Extension_Method\obj\Debug\Question02_ Extension_Method.csproj.GenerateResource.cache
+C:\Users\Max Bay\Desktop\Lab 01\301098547(Wang)_LAB#1\Question02_ Extension_Method\obj\Debug\Question02_ Extension_Method.csproj.CoreCompileInputs.cache
+C:\Users\Max Bay\Desktop\Lab 01\301098547(Wang)_LAB#1\Question02_ Extension_Method\obj\Debug\Question02_ Extension_Method.exe
+C:\Users\Max Bay\Desktop\Lab 01\301098547(Wang)_LAB#1\Question02_ Extension_Method\obj\Debug\Question02_ Extension_Method.pdb

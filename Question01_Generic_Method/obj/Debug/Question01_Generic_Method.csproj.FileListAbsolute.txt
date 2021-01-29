@@ -1,0 +1,10 @@
+C:\Users\Max Bay\Desktop\Lab 01\Lab_01\Question01_Generic_Method\bin\Debug\Question01_Generic_Method.exe.config
+C:\Users\Max Bay\Desktop\Lab 01\Lab_01\Question01_Generic_Method\bin\Debug\Question01_Generic_Method.exe
+C:\Users\Max Bay\Desktop\Lab 01\Lab_01\Question01_Generic_Method\bin\Debug\Question01_Generic_Method.pdb
+C:\Users\Max Bay\Desktop\Lab 01\Lab_01\Question01_Generic_Method\obj\Debug\Question01_Generic_Method.csprojAssemblyReference.cache
+C:\Users\Max Bay\Desktop\Lab 01\Lab_01\Question01_Generic_Method\obj\Debug\Question01_Generic_Method.Form1.resources
+C:\Users\Max Bay\Desktop\Lab 01\Lab_01\Question01_Generic_Method\obj\Debug\Question01_Generic_Method.Properties.Resources.resources
+C:\Users\Max Bay\Desktop\Lab 01\Lab_01\Question01_Generic_Method\obj\Debug\Question01_Generic_Method.csproj.GenerateResource.cache
+C:\Users\Max Bay\Desktop\Lab 01\Lab_01\Question01_Generic_Method\obj\Debug\Question01_Generic_Method.csproj.CoreCompileInputs.cache
+C:\Users\Max Bay\Desktop\Lab 01\Lab_01\Question01_Generic_Method\obj\Debug\Question01_Generic_Method.exe
+C:\Users\Max Bay\Desktop\Lab 01\Lab_01\Question01_Generic_Method\obj\Debug\Question01_Generic_Method.pdb
